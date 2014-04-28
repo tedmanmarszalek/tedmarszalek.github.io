@@ -1,3 +1,3 @@
-tedmarszalek.github.io
+tedmarszalek.github.com
 ======================
 
