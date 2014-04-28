@@ -1,3 +1,3 @@
-[a link] tedmarszalek.github.com
+[a link] (tedmarszalek.github.com)
 ======================
 
