@@ -1,3 +1,3 @@
-[my page] (tedmarszalek.github.com)
+[fuck] (tedmarszalek.github.com)
 ======================
 
