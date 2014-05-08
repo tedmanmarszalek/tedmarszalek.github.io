@@ -1,3 +1,3 @@
-[fuck] (tedmarszalek.github.com)
+[fuck]
 ======================
 
