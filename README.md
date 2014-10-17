@@ -1,3 +1,3 @@
-[fuck] (http://tedmarszalek.github.io/)
+[website] (http://web.engr.illinois.edu/~tmarsza2/)
 ======================
 
