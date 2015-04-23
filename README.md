@@ -1,3 +1,3 @@
-[website] (http://web.engr.illinois.edu/~tmarsza2/)
+[website] (http://tedmarszalek.github.io/)
 ======================
 
