@@ -1,3 +1,3 @@
-[website] (http://tedmarszalek.github.io/)
+[tedman.info] (http://tedmarszalek.github.io/)
 ======================
 
